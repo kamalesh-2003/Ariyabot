@@ -1,6 +1,6 @@
-# Meera Bot
+# Ariya Bot
 
-Hi, This is Meerabot, a simple chatbot created using HTML, CSS, and Javascript, It is tweaked to generate the most human responses possible, almost like talking to a human.
+Hi, This is Ariyabot, a simple chatbot created using HTML, CSS, and Javascript, It is tweaked to generate the most human responses possible, almost like talking to a human.
 
 
 Check the bot out on (https://meerabot.netlify.app/)
