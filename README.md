@@ -1,4 +1,4 @@
-# Ariya Bot
+# Miraa Bot
 
 Hi, This is Miraabot, a simple chatbot created using HTML, CSS, and Javascript, It is tweaked to generate the most human responses possible, almost like talking to a human.
 
